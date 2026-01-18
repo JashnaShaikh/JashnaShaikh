@@ -1,6 +1,6 @@
  👋 Hey, I'm Jashna
 
- 💻 Frontend Learner | ☕ Coffee Lover
+ 💻 Frontend Developer | ☕ Coffee Lover
 
 I’m on a journey through web development — turning ideas into interfaces, improving UI/UX, and learning how the web really works.
 Comfortable with frontend, recently started exploring backend, and I love designing clean, user-friendly experiences. Also excited to dive into Web3 and emerging tech.
